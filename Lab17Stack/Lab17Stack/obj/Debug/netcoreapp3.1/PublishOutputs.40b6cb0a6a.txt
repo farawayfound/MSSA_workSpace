@@ -1,0 +1,5 @@
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\Labs\Lab17Stack\Lab17Stack\bin\Debug\netcoreapp3.1\publish\Lab17Stack.exe
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\Labs\Lab17Stack\Lab17Stack\bin\Debug\netcoreapp3.1\publish\Lab17Stack.dll
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\Labs\Lab17Stack\Lab17Stack\bin\Debug\netcoreapp3.1\publish\Lab17Stack.deps.json
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\Labs\Lab17Stack\Lab17Stack\bin\Debug\netcoreapp3.1\publish\Lab17Stack.runtimeconfig.json
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\Labs\Lab17Stack\Lab17Stack\bin\Debug\netcoreapp3.1\publish\Lab17Stack.pdb

@@ -1,0 +1,13 @@
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\Labs\Lab17Stack\Lab17Stack\bin\Debug\netcoreapp3.1\Lab17Stack.exe
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\Labs\Lab17Stack\Lab17Stack\bin\Debug\netcoreapp3.1\Lab17Stack.deps.json
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\Labs\Lab17Stack\Lab17Stack\bin\Debug\netcoreapp3.1\Lab17Stack.runtimeconfig.json
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\Labs\Lab17Stack\Lab17Stack\bin\Debug\netcoreapp3.1\Lab17Stack.runtimeconfig.dev.json
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\Labs\Lab17Stack\Lab17Stack\bin\Debug\netcoreapp3.1\Lab17Stack.dll
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\Labs\Lab17Stack\Lab17Stack\bin\Debug\netcoreapp3.1\Lab17Stack.pdb
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\Labs\Lab17Stack\Lab17Stack\obj\Debug\netcoreapp3.1\Lab17Stack.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\Labs\Lab17Stack\Lab17Stack\obj\Debug\netcoreapp3.1\Lab17Stack.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\Labs\Lab17Stack\Lab17Stack\obj\Debug\netcoreapp3.1\Lab17Stack.AssemblyInfo.cs
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\Labs\Lab17Stack\Lab17Stack\obj\Debug\netcoreapp3.1\Lab17Stack.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\Labs\Lab17Stack\Lab17Stack\obj\Debug\netcoreapp3.1\Lab17Stack.dll
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\Labs\Lab17Stack\Lab17Stack\obj\Debug\netcoreapp3.1\Lab17Stack.pdb
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\Labs\Lab17Stack\Lab17Stack\obj\Debug\netcoreapp3.1\Lab17Stack.genruntimeconfig.cache
