@@ -1,0 +1,13 @@
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache
