@@ -1,0 +1,13 @@
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Bullet Proof\Bullet Proof\bin\Debug\netcoreapp3.1\Bullet Proof.exe
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Bullet Proof\Bullet Proof\bin\Debug\netcoreapp3.1\Bullet Proof.deps.json
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Bullet Proof\Bullet Proof\bin\Debug\netcoreapp3.1\Bullet Proof.runtimeconfig.json
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Bullet Proof\Bullet Proof\bin\Debug\netcoreapp3.1\Bullet Proof.runtimeconfig.dev.json
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Bullet Proof\Bullet Proof\bin\Debug\netcoreapp3.1\Bullet Proof.dll
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Bullet Proof\Bullet Proof\bin\Debug\netcoreapp3.1\Bullet Proof.pdb
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Bullet Proof\Bullet Proof\obj\Debug\netcoreapp3.1\Bullet Proof.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Bullet Proof\Bullet Proof\obj\Debug\netcoreapp3.1\Bullet Proof.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Bullet Proof\Bullet Proof\obj\Debug\netcoreapp3.1\Bullet Proof.AssemblyInfo.cs
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Bullet Proof\Bullet Proof\obj\Debug\netcoreapp3.1\Bullet Proof.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Bullet Proof\Bullet Proof\obj\Debug\netcoreapp3.1\Bullet Proof.dll
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Bullet Proof\Bullet Proof\obj\Debug\netcoreapp3.1\Bullet Proof.pdb
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 322\Labs\Bullet Proof\Bullet Proof\obj\Debug\netcoreapp3.1\Bullet Proof.genruntimeconfig.cache
