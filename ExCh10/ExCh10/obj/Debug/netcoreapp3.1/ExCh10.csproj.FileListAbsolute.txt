@@ -1,0 +1,13 @@
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\HW\ExCh10\ExCh10\bin\Debug\netcoreapp3.1\ExCh10.exe
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\HW\ExCh10\ExCh10\bin\Debug\netcoreapp3.1\ExCh10.deps.json
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\HW\ExCh10\ExCh10\bin\Debug\netcoreapp3.1\ExCh10.runtimeconfig.json
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\HW\ExCh10\ExCh10\bin\Debug\netcoreapp3.1\ExCh10.runtimeconfig.dev.json
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\HW\ExCh10\ExCh10\bin\Debug\netcoreapp3.1\ExCh10.dll
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\HW\ExCh10\ExCh10\bin\Debug\netcoreapp3.1\ExCh10.pdb
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\HW\ExCh10\ExCh10\obj\Debug\netcoreapp3.1\ExCh10.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\HW\ExCh10\ExCh10\obj\Debug\netcoreapp3.1\ExCh10.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\HW\ExCh10\ExCh10\obj\Debug\netcoreapp3.1\ExCh10.AssemblyInfo.cs
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\HW\ExCh10\ExCh10\obj\Debug\netcoreapp3.1\ExCh10.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\HW\ExCh10\ExCh10\obj\Debug\netcoreapp3.1\ExCh10.dll
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\HW\ExCh10\ExCh10\obj\Debug\netcoreapp3.1\ExCh10.pdb
+C:\Users\david\OneDrive\Documents\MSSA\ISTA 421\HW\ExCh10\ExCh10\obj\Debug\netcoreapp3.1\ExCh10.genruntimeconfig.cache
